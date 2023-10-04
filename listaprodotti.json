@@ -1,0 +1,34 @@
+[
+    {
+        "productName": "Nome del Prodotto 1",
+        "imageUrl": "https://m.media-amazon.com/images/I/81ydgoycK4L._AC_SL1500_.jpg",
+        "price": 19.99,
+        "priceOld": 29.99,
+        "market": "Amazon",
+        "amazonUrl": "URL_di_Amazon_1"
+    },
+    {
+        "productName": "Nome del Prodotto 1",
+        "imageUrl": "https://m.media-amazon.com/images/I/81ydgoycK4L._AC_SL1500_.jpg",
+        "price": 19.99,
+        "priceOld": 29.99,
+        "market": "Amazon",
+        "amazonUrl": "URL_di_Amazon_1"
+    },
+    {
+        "productName": "Nome del Prodotto 1",
+        "imageUrl": "https://m.media-amazon.com/images/I/81ydgoycK4L._AC_SL1500_.jpg",
+        "price": 19.99,
+        "priceOld": 29.99,
+        "market": "Amazon",
+        "amazonUrl": "URL_di_Amazon_1"
+    },
+    {
+        "productName": "PUMA - Pantaloncini Teamliga, Pantaloncini Unisex - Adulto",
+        "imageUrl": "https://m.media-amazon.com/images/I/51aqChNWxOL.__AC_SY445_SX342_QL70_ML2_.jpg",
+        "price": "9,95\u20ac",
+        "priceOld": "10\u20ac",
+        "market": "Amazon.it",
+        "amazonUrl": "https://www.amazon.it/dp/B0963KBJ7L?_encoding=UTF8&psc=1&linkCode=ll1&tag=12345678054cd-21&linkId=84611f1cae6add511354e430bfa6fc3c&language=it_IT&ref_=as_li_ss_tl"
+    }
+]
